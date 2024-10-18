@@ -8,6 +8,7 @@ var z string
 func main() {
 	// Tipos em GO são estáticos, uma vez definido ele não terá mudança de tipo
 	// Ao declarar uma variável para conter valores de um certo tipo, essa variável só poderar conter esse tipo
+	// O tipo pode ser deduzido pelo compilador
 
 	x := 10
 	fmt.Println(x)
