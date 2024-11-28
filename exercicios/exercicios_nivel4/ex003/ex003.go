@@ -15,7 +15,7 @@ func main() {
 
 	fmt.Println(fatia_numbers2)
 
-	fatia_numbers3 := numbers[1:7]
+	fatia_numbers3 := numbers[1:8]
 
 	fmt.Println(fatia_numbers3)
 
